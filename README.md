@@ -2057,6 +2057,7 @@ getdata()
   .catch(error => {
     console.log(error);
   });
+
 ```
 
 **Good:**
